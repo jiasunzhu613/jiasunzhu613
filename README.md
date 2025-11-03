@@ -6,6 +6,6 @@ Hi! My name is Jonathan, trying my best to build cool stuff!
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-...also [jonathanzhu.com](jonathanzhu.com)!
+...also [jonathanzhu.com](https://jonathanzhu.com)!
 
 
