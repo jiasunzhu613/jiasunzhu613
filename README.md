@@ -2,7 +2,7 @@
 Hi! My name is Jonathan, trying my best to build cool stuff! Interested in low-level programming, containerization and web.
 
 Currently:
-- working on writing a c port for simdjson 👀 (to the best of my ability)
+- working on writing a c port for simdjson 👀 (to the best of my ability and only starting with simple features)
 
 Hopefully soon:
 - simple docker clone 📦
