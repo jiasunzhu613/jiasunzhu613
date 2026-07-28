@@ -3,6 +3,7 @@ Hi! My name is Jonathan, trying my best to build cool stuff! Interested in low-l
 
 Currently:
 - redis clone
+- lisp interpreter (and later jit compiler)
 
 Hopefully soon:
 - simple docker clone 📦
