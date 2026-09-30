@@ -1,5 +1,5 @@
 # hi, hello, welcome!
-Hi! My name is Jonathan, trying my best to build cool stuff! Interested in low-level programming, containerization and web.
+Hi! My name is Jonathan, trying my best to build cool stuff! Interested in low-level programming, containerization, compilers and web.
 
 Currently:
 - redis clone
